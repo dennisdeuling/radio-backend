@@ -25,3 +25,12 @@
   ```
   $ node bin/radio-seed.js
   ```
+
+- The routes to the endpoints are:
+
+    - Method GET:
+        - {Localhost}/api/radios/
+        - {Localhost}/api/radios/sortedByName
+        - {Localhost}/api/radios/:radioId
+    - Method PUT:
+        - {Localhost}/api/radios/:radioId
