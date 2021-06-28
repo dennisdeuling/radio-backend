@@ -33,4 +33,8 @@
         - {Localhost}/api/radios/sortedByName
         - {Localhost}/api/radios/:radioId
     - Method PUT:
+<<<<<<< HEAD
         - {Localhost}/api/radios/:radioId
+=======
+        - {Localhost}/api/radios/:radioId
+>>>>>>> origin/master
